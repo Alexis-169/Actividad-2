@@ -1,0 +1,5 @@
+una estructura de control nos permite manejar y tener mas control sobre nuestro codigo y de este modo aplicar la estructura correcta 
+en funcion a ciertas condiciones 
+
+Bifurcaciones: la Bifurcacionesnos permiten ir por un camino u otro si se cumple la condicon vamos por un camino si no se cumple
+ vamos por el otro
